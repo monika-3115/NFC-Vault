@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NFC Vault</string>
+    <string name="email_ph">Enter your email address</string>
+    <string name="password_ph">Enter your password</string>
+    <string name="password_phr">Create your password</string>
+    <string name="name_ph">Enter your name</string>
+</resources>
